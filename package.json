@@ -1,0 +1,24 @@
+{
+  "name": "08-31-21",
+  "version": "1.0.0",
+  "description": "- The Node Package Manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QFults/08-31-21.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QFults/08-31-21/issues"
+  },
+  "homepage": "https://github.com/QFults/08-31-21#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.2"
+  }
+}
